@@ -1,3 +1,4 @@
+import task.LongestCommonPrefix;
 import task.RomanToInteger;
 
 public class Main {
@@ -10,8 +11,12 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        RomanToInteger romanToInteger = new RomanToInteger();
-        System.out.println(romanToInteger.romanToInt("IV"));
+        LongestCommonPrefix longestCommonPrefix = new LongestCommonPrefix();
+        String[] str = new String[3];
+        str[0] = "flower";
+        str[1] = "flow";
+        str[2] = "flight";
+        System.out.println(longestCommonPrefix.longestCommonPrefix(str));
     }
 
 }
