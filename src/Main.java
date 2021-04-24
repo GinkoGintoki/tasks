@@ -1,5 +1,6 @@
 import Martyr2.Fibonacci;
 import Martyr2.FindPiToTheNthDigit;
+import Martyr2.PrimeFactorization;
 import leetcode.SearchInsertPosition;
 
 public class Main {
@@ -12,9 +13,12 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        Fibonacci fibonacci = new Fibonacci();
-        long fibonacci1 = fibonacci.fibonacci(7);
-        System.out.println(fibonacci1);
+        PrimeFactorization pf = new PrimeFactorization();
+
+        for (Integer integer:
+             pf.primeFactorization(44)) {
+            System.out.println(integer);
+        }
     }
 
 }
