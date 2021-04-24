@@ -1,4 +1,4 @@
-package task;
+package leetcode;
 
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {

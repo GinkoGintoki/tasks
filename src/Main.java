@@ -1,6 +1,4 @@
-import task.LongestCommonPrefix;
-import task.RomanToInteger;
-import task.SearchInsertPosition;
+import leetcode.SearchInsertPosition;
 
 public class Main {
     public static void main(String[] args) {
