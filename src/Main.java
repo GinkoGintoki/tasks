@@ -1,3 +1,4 @@
+import Martyr2.Fibonacci;
 import Martyr2.FindPiToTheNthDigit;
 import leetcode.SearchInsertPosition;
 
@@ -11,8 +12,9 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        FindPiToTheNthDigit findPiToTheNthDigit = new FindPiToTheNthDigit();
-        findPiToTheNthDigit.findPi(3);
+        Fibonacci fibonacci = new Fibonacci();
+        long fibonacci1 = fibonacci.fibonacci(7);
+        System.out.println(fibonacci1);
     }
 
 }
