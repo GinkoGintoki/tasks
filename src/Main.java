@@ -1,5 +1,6 @@
 import task.LongestCommonPrefix;
 import task.RomanToInteger;
+import task.SearchInsertPosition;
 
 public class Main {
     public static void main(String[] args) {
@@ -11,12 +12,8 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        LongestCommonPrefix longestCommonPrefix = new LongestCommonPrefix();
-        String[] str = new String[3];
-        str[0] = "flower";
-        str[1] = "flow";
-        str[2] = "flight";
-        System.out.println(longestCommonPrefix.longestCommonPrefix(str));
+        SearchInsertPosition searchInsertPosition = new SearchInsertPosition();
+        System.out.println(searchInsertPosition.searchInsert(new int[]{1,3,4,6},7));
     }
 
 }
