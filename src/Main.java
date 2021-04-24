@@ -1,3 +1,4 @@
+import Martyr2.FindPiToTheNthDigit;
 import leetcode.SearchInsertPosition;
 
 public class Main {
@@ -10,8 +11,8 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        SearchInsertPosition searchInsertPosition = new SearchInsertPosition();
-        System.out.println(searchInsertPosition.searchInsert(new int[]{1,3,4,6},7));
+        FindPiToTheNthDigit findPiToTheNthDigit = new FindPiToTheNthDigit();
+        findPiToTheNthDigit.findPi(3);
     }
 
 }
