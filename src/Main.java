@@ -11,9 +11,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        CostOfTile ct = new CostOfTile();
-
-        System.out.println(ct.findCostOfTile(100,20,20,100,100));
+        MortgageCalculator.mortgageCalculator(10,100000,6,20000);
     }
 
 }
