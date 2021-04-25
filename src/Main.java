@@ -11,7 +11,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        System.out.println(DecimalBinaryConverter.binaryToDecimal(10011100));
+        Calculator.main();
     }
 
 }
