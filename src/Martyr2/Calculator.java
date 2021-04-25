@@ -49,7 +49,11 @@ public class Calculator {
             calculator(doubles.get(0), doubles.get(1), function);
         }
 
-
+        try {
+            bf.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 
     public static void calculator(double a, double b, String function) {
