@@ -11,9 +11,9 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 [**_Fibonacci Sequence_**](Fibonacci.java) – Enter a number and have the program generate the Fibonacci sequence to that number or to the Nth number.
 
-[**_Prime Factorization**](PrimeFactorization.java) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
+[**_Prime Factorization_**](PrimeFactorization.java) – Have the user enter a number and find all Prime Factors (if there are any) and display them.
 
-[**_Next Prime Number**](NextPrimeNumber.java) – Have the program find prime numbers until the user chooses to stop asking for the next one.
+[**_Next Prime Number_**](NextPrimeNumber.java) – Have the program find prime numbers until the user chooses to stop asking for the next one.
 
 [**_Find Cost of Tile to Cover W x H Floor_**](CostOfTile.java) – Calculate the total cost of tile it would take to cover a floor plan of width and height, using a cost entered by the user.
 
