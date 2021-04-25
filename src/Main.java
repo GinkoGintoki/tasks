@@ -11,7 +11,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        MortgageCalculator.mortgageCalculator(10,100000,6,20000);
+        ChangeReturnProgram.change(100.06,120);
     }
 
 }
