@@ -1,7 +1,4 @@
-import Martyr2.Fibonacci;
-import Martyr2.FindPiToTheNthDigit;
-import Martyr2.NextPrimeNumber;
-import Martyr2.PrimeFactorization;
+import Martyr2.*;
 import leetcode.SearchInsertPosition;
 
 public class Main {
@@ -14,8 +11,9 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        NextPrimeNumber number = new NextPrimeNumber();
-        number.prime();
+        CostOfTile ct = new CostOfTile();
+
+        System.out.println(ct.findCostOfTile(100,20,20,100,100));
     }
 
 }
