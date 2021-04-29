@@ -28,11 +28,11 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 [**_Calculator_**](Calculator.java) – A simple calculator to do basic operators. Make it a scientific calculator for added complexity.
 
-[**_Unit Converter (temp, currency, volume, mass and more)_**]() – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
+[**_Unit Converter (temp, currency, volume, mass and more)_**](UnitConverter.java) – Converts various units between one another. The user enters the type of unit being entered, the type of unit they want to convert to and then the value. The program will then make the conversion.
 
-[**_Alarm Clock_**]() – A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
+**_Alarm Clock_** – A simple clock where it plays a sound after X number of minutes/seconds or at a particular time.
 
-[**_Distance Between Two Cities_**]() – Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
+[**_Distance Between Two Cities_**](DistanceBetweenTwoCities.java) – Calculates the distance between two cities and allows the user to specify a unit of distance. This program may require finding coordinates for the cities like latitude and longitude.
 
 [**_Credit Card Validator_**]() – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
