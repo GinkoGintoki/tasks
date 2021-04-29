@@ -36,7 +36,7 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 [**_Credit Card Validator_**](CreditCardValidator.java) – Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
 
-[**_Tax Calculator_**]() – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
+[**_Tax Calculator_**](TaxCalculator.java) – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
 [**_Factorial Finder_**]() - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 

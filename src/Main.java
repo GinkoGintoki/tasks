@@ -13,7 +13,7 @@ public class Main {
         D             500
         M             1000*/
 
-        System.out.println(CreditCardValidator.CardValidator("4388576018402626"));
+        TaxCalculator.tax("100 Kazakhstan country");
     }
 
 }
