@@ -13,7 +13,8 @@ public class Main {
         D             500
         M             1000*/
 
-        TaxCalculator.tax("100 Kazakhstan country");
+        System.out.println(FactorialFinder.factorial(0));
+        System.out.println(FactorialFinder.factorialRecursion(5));
     }
 
 }
