@@ -16,8 +16,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        ComplexNumber complexNumber = new ComplexNumber();
-        complexNumber.menu();
+        HappyNumber.happyNumber(23);
     }
 
 }
