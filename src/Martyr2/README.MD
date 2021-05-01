@@ -38,9 +38,9 @@ Trying to complete all projects from [Martyr2’s Mega Project List](http://www.
 
 [**_Tax Calculator_**](TaxCalculator.java) – Asks the user to enter a cost and either a country or state tax. It then returns the tax plus the total cost with tax.
 
-[**_Factorial Finder_**]() - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
+[**_Factorial Finder_**](FactorialFinder.java) - The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
 
-[**_Complex Number Algebra_**]() - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
+[**_Complex Number Algebra_**](ComplexNumber) - Show addition, multiplication, negation, and inversion of complex numbers in separate functions. (Subtraction and division operations can be made with pairs of these operations.) Print the results for each operation tested.
 
 [**_Happy Numbers_**]() - A happy number is defined by the following process. Starting with any positive integer, replace the number by the sum of the squares of its digits, and repeat the process until the number equals 1 (where it will stay), or it loops endlessly in a cycle which does not include 1. Those numbers for which this process ends in 1 are happy numbers, while those that do not end in 1 are unhappy numbers. Take an input number from user, and find first 8 happy numbers from that input.
 

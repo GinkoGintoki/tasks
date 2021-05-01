@@ -1,5 +1,9 @@
 import Martyr2.*;
+import Martyr2.ComplexNumber.ComplexNumber;
 import leetcode.SearchInsertPosition;
+
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 
 public class Main {
@@ -12,9 +16,8 @@ public class Main {
         C             100
         D             500
         M             1000*/
-
-        System.out.println(FactorialFinder.factorial(0));
-        System.out.println(FactorialFinder.factorialRecursion(5));
+        ComplexNumber complexNumber = new ComplexNumber();
+        complexNumber.menu();
     }
 
 }
