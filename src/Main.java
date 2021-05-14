@@ -16,7 +16,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        HappyNumber.happyNumber(23);
+        NumberName.name();
     }
 
 }
