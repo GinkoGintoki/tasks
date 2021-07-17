@@ -1,4 +1,6 @@
 import Martyr2.*;
+import leetcode.ValidParentheses;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -13,7 +15,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        NumberName.name();
+        System.out.println(ValidParentheses.validParentheses("(){}}{"));
     }
 
 }

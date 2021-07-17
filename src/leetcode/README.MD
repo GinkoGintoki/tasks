@@ -19,3 +19,5 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 [MergeTwoSortedLists](MergeTwoSortedLists.java) - Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
 
+[ValidParentheses](ValidParentheses.java) - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
+
