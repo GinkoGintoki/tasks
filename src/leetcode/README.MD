@@ -13,3 +13,9 @@
 [Remove Element](RemoveElement.java) - Given an array nums and a value val, remove all instances of that value in-place and return the new length.
 
 [Longest Common Prefix](LongestCommonPrefix.java) - Write a function to find the longest common prefix string amongst an array of strings.
+
+[SingleNumber](SingleNumber.java) - Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+You must implement a solution with a linear runtime complexity and use only constant extra space.
+
+[MergeTwoSortedLists](MergeTwoSortedLists.java) - Merge two sorted linked lists and return it as a sorted list. The list should be made by splicing together the nodes of the first two lists.
+
