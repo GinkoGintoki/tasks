@@ -1,5 +1,6 @@
 import Martyr2.*;
 import leetcode.ImplementStrStr;
+import leetcode.MaximumSubarray;
 import leetcode.RemoveDuplicatesFromSortedArray;
 
 import java.util.regex.Matcher;
@@ -15,7 +16,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        System.out.println(ImplementStrStr.strStr("hello",""));
+        System.out.println(MaximumSubarray.maxSubarray(new int[]{-5,1,-3,3,-1,2,-1}));
     }
 
 }

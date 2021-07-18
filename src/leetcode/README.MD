@@ -25,3 +25,5 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 [ImplementStrStr](ImplementStrStr.java) - Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
 
+[MaximumSubarray](MaximumSubarray.java) - Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
+
