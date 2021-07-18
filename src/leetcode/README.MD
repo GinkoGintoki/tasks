@@ -21,3 +21,7 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 [ValidParentheses](ValidParentheses.java) - Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.
 
+[RemoveDuplicatesFromSortedArray](RemoveDuplicatesFromSortedArray.java) - Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+
+[ImplementStrStr](ImplementStrStr.java) - Return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack.
+

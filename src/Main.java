@@ -1,4 +1,5 @@
 import Martyr2.*;
+import leetcode.ImplementStrStr;
 import leetcode.RemoveDuplicatesFromSortedArray;
 
 import java.util.regex.Matcher;
@@ -14,7 +15,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        System.out.println(RemoveDuplicatesFromSortedArray.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
+        System.out.println(ImplementStrStr.strStr("hello",""));
     }
 
 }
