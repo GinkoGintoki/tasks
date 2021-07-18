@@ -27,3 +27,6 @@ You must implement a solution with a linear runtime complexity and use only cons
 
 [MaximumSubarray](MaximumSubarray.java) - Given an integer array nums, find the contiguous subarray (containing at least one number) which has the largest sum and return its sum.
 
+[LengthOfLastWord](LengthOfLastWord.java) - Given a string s consists of some words separated by spaces, return the length of the last word in the string. If the last word does not exist, return 0.
+A word is a maximal substring consisting of non-space characters only.
+
