@@ -1,9 +1,8 @@
 import Martyr2.*;
-import leetcode.ValidParentheses;
+import leetcode.RemoveDuplicatesFromSortedArray;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
 
 public class Main {
     public static void main(String[] args) {
@@ -15,7 +14,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        System.out.println(ValidParentheses.validParentheses("(){}}{"));
+        System.out.println(RemoveDuplicatesFromSortedArray.removeDuplicates(new int[]{0,0,1,1,1,2,2,3,3,4}));
     }
 
 }
