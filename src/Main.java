@@ -1,5 +1,6 @@
 import Martyr2.*;
 import leetcode.ImplementStrStr;
+import leetcode.LengthOfLastWord;
 import leetcode.MaximumSubarray;
 import leetcode.RemoveDuplicatesFromSortedArray;
 
@@ -16,7 +17,7 @@ public class Main {
         C             100
         D             500
         M             1000*/
-        System.out.println(MaximumSubarray.maxSubarray(new int[]{-5,1,-3,3,-1,2,-1}));
+        System.out.println(LengthOfLastWord.lengthOfLastWord("b day "));
     }
 
 }
